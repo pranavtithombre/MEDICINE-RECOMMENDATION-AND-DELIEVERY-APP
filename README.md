@@ -7,22 +7,15 @@ This project is an AI-powered web application that predicts diseases based on us
 🎯OBJECTIVES
 
 Predict diseases using machine learning
-
 Recommend medicines based on predictions
-
 Provide an online platform for medicine ordering
-
-
 Improve accessibility to basic healthcare services
 
 🧠 TECHNOLOGIES USED
 
 Python
-
 Pandas, NumPy
-
 HTML/CSS/JavaScript
-
 SQLitE
 
 📊 DATASET 
@@ -30,50 +23,33 @@ SQLitE
 Symptom-Disease dataset (Kaggle)
 Medicine dataset (custom/manual)
 
-SYSTEM WORKFLOW 
-
+  SYSTEM WORKFLOW 
 User enters symptoms
-
 AI model predicts disease
-
 System recommends medicines
-
 User places order
-
 Order is assigned to a nearby pharmacy
-
 Pharmacy processes the order
-
 Delivery status is updated
 
 🔍 FEATURES
 
 Symptom-based disease prediction
-
 Medicine recommendation system
-
 User authentication (login/signup)
-
 Add to cart & order medicines
-
 Simple and user-friendly interface
 
 RESULTS
 
 Home page
-
 Symptom input page
-
 Prediction results
-
 Cart & checkout
 
 🧪 FUTURE IMPROVEMENTS
 
 Integration with real pharmacy APIs
-
 Real-time doctor consultation
-
 Mobile app development
-
 AI chatbot support
