@@ -30,6 +30,22 @@ SQLitE
 Symptom-Disease dataset (Kaggle)
 Medicine dataset (custom/manual)
 
+SYSTEM WORKFLOW 
+
+User enters symptoms
+
+AI model predicts disease
+
+System recommends medicines
+
+User places order
+
+Order is assigned to a nearby pharmacy
+
+Pharmacy processes the order
+
+Delivery status is updated
+
 🔍 FEATURES
 
 Symptom-based disease prediction
