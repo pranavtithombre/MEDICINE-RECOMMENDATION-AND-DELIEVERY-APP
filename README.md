@@ -31,7 +31,7 @@ Symptom-Disease dataset (Kaggle)
 Medicine dataset (custom/manual)
 
 
-  SYSTEM WORKFLOW 
+📍SYSTEM WORKFLOW 
 
 User enters symptoms
 
@@ -60,7 +60,7 @@ Add to cart & order medicines
 Simple and user-friendly interface
 
 
-RESULTS
+📍 RESULTS
 
 Home page
 
