@@ -1,81 +1,72 @@
-AI-Based Medicine Recommendation & Delivery System
+# 🩺 AI-Based Medicine Recommendation & Delivery System
 
-INTRODUCTION
+## 📌 Introduction
+This project is an **AI-powered web application** that predicts diseases based on user symptoms and recommends suitable medicines. It also includes an **online medicine delivery system**, allowing users to order medicines directly from nearby pharmacies.
 
-This project is an AI-powered web application that predicts diseases based on user symptoms and recommends appropriate medicines. It also includes an online delivery system where users can order medicines directly.
+---
 
-🎯OBJECTIVES
+## 🎯 Objectives
+- Predict diseases using Machine Learning  
+- Recommend medicines based on predicted disease  
+- Provide an online platform for ordering medicines  
+- Improve accessibility to basic healthcare services  
 
-Predict diseases using machine learning
+---
 
-Recommend medicines based on predictions
+## 🧠 Technologies Used
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** SQLite  
 
-Provide an online platform for medicine ordering
+---
 
-Improve accessibility to basic healthcare services
+## 📊 Dataset
+- Symptom-Disease Dataset (Kaggle)  
+- Medicine Dataset (Custom / Manually created)  
 
-🧠 TECHNOLOGIES USED
+---
 
-Python
+## 📍 System Workflow
+1. User enters symptoms  
+2. AI model predicts the disease  
+3. System recommends medicines  
+4. User places an order  
+5. Order is assigned to a nearby pharmacy  
+6. Pharmacy processes the order  
+7. Delivery status is updated  
 
-Pandas, NumPy
+---
 
-HTML/CSS/JavaScript
+## 🔍 Features
+- Symptom-based disease prediction  
+- Medicine recommendation system  
+- User authentication (Login/Signup)  
+- Add to cart & order medicines  
+- Simple and user-friendly interface  
 
-SQLitE
+---
 
-📊 DATASET 
+## 📍 Results / Screens
+- Home Page  
+- Symptom Input Page  
+- Prediction Results Page  
+- Cart & Checkout Page  
 
-Symptom-Disease dataset (Kaggle)
+---
 
-Medicine dataset (custom/manual)
+## 🧪 Future Improvements
+- Integration with real pharmacy APIs  
+- Real-time doctor consultation  
+- Mobile application development  
+- AI chatbot support  
 
+---
 
-📍SYSTEM WORKFLOW 
+## 🚀 Conclusion
+This project demonstrates how Artificial Intelligence can be used to improve healthcare accessibility by providing quick disease prediction, medicine recommendations, and seamless delivery services.
 
-User enters symptoms
+---
 
-AI model predicts disease
-
-System recommends medicines
-
-User places order
-
-Order is assigned to a nearby pharmacy
-
-Pharmacy processes the order
-
-Delivery status is updated
-
-🔍 FEATURES
-
-Symptom-based disease prediction
-
-Medicine recommendation system
-
-User authentication (login/signup)
-
-Add to cart & order medicines
-
-Simple and user-friendly interface
-
-
-📍 RESULTS
-
-Home page
-
-Symptom input page
-
-Prediction results
-
-Cart & checkout
-
-🧪 FUTURE IMPROVEMENTS
-
-Integration with real pharmacy APIs
-
-Real-time doctor consultation
-
-Mobile app development
-
-AI chatbot support
+## 👨‍💻 Author
+Your Name Here
