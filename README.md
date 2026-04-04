@@ -68,5 +68,4 @@ This project demonstrates how Artificial Intelligence can be used to improve hea
 
 ---
 
-## 👨‍💻 Author
-YoH
+## 👨‍💻
