@@ -1,5 +1,11 @@
 # 🩺 AI-Based Medicine Recommendation & Delivery System
 
+---
+Author : Pranavti Thombre
+Date: March 2026
+
+---
+
 ## 📌 Introduction
 This project is an **AI-powered web application** that predicts diseases based on user symptoms and recommends suitable medicines. It also includes an **online medicine delivery system**, allowing users to order medicines directly from nearby pharmacies.
 
